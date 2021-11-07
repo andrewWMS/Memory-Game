@@ -1,3 +1,8 @@
 # Memory-Game
 
-Igra se pokrece tako sto se pokrene program "MemoryGame.exe"
+Kako se pokrece igra?
+
+Korak 1)
+- Preuzmite "MemoryGame.rar".
+Korak 2)
+- Pokrenite "MemoryGame.exe".
