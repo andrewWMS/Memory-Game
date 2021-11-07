@@ -264,9 +264,5 @@ public class Logic : MonoBehaviour
         {
             PlayHard();
         }
-        else
-        {
-            Debug.Log("Majmunee");
-        }
     }
 }
