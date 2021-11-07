@@ -3,6 +3,6 @@
 Kako se pokrece igra?
 
 Korak 1)
-- Preuzmite "MemoryGame.rar".
+ Preuzmite "MemoryGame.rar".
 Korak 2)
-- Pokrenite "MemoryGame.exe".
+ Pokrenite "MemoryGame.exe".
